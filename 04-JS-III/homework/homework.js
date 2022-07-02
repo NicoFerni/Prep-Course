@@ -264,10 +264,9 @@ function continueStatement(numero) {
     }
     numero = numero + 2;
     resultadoEnArray.push(numero);
-  } return resultadoEnArray
-
+  }
+  return resultadoEnArray;
 }
-
 
 // No modificar nada debajo de esta línea
 // --------------------------------
